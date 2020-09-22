@@ -13,11 +13,11 @@ Below is an example output from the classifier when the training images are labe
 
 # Report
 <img src="https://github.com/HarrishanSK/LBP_Classifier/blob/master/Images/page1.png" alt="alt text">
-<img src="https://github.com/HarrishanSK/LBP_Classifier/blob/master/Images/page2.png" alt="alt text" width="700" height="900">
-<img src="https://github.com/HarrishanSK/LBP_Classifier/blob/master/Images/page3.png" alt="alt text" width="700" height="900">
-<img src="https://github.com/HarrishanSK/LBP_Classifier/blob/master/Images/page4.png" alt="alt text" width="700" height="900">
-<img src="https://github.com/HarrishanSK/LBP_Classifier/blob/master/Images/page5.png" alt="alt text" width="700" height="900">
-<img src="https://github.com/HarrishanSK/LBP_Classifier/blob/master/Images/page6.png" alt="alt text" width="700" height="600">
+<img src="https://github.com/HarrishanSK/LBP_Classifier/blob/master/Images/page2.png" alt="alt text">
+<img src="https://github.com/HarrishanSK/LBP_Classifier/blob/master/Images/page3.png" alt="alt text">
+<img src="https://github.com/HarrishanSK/LBP_Classifier/blob/master/Images/page4.png" alt="alt text">
+<img src="https://github.com/HarrishanSK/LBP_Classifier/blob/master/Images/page5.png" alt="alt text">
+<img src="https://github.com/HarrishanSK/LBP_Classifier/blob/master/Images/page6.png" alt="alt text">
 
 
 
