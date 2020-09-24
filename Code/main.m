@@ -1,7 +1,7 @@
 %% Author: Harrishan Sureshkumar
 %My Classifier for cars and faces
 %
-%% 6c Classifier 1
+%%Classifier 1
 %Read in the images from Dataset A
 car3 = imread('DatasetA/car-4.jpg');%Load image from Dataset A to classify
 car2 = imread('DatasetA/car-5.jpg');%Load image from Dataset A to classify
@@ -31,7 +31,7 @@ testData = zeros(256,256,3,2);
 classLabels1 = ICV_Classifier1_T2C4(trainData, testData,windowSize);
 
 
-%% 6c Classifier 2
+%%Classifier 2
 close all;clear; clc ;
 %Read in the images from Dataset A
 car3 = imread('DatasetA/car-3.jpg');%Load image from Dataset A to train/use as model
